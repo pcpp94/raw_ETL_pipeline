@@ -1,3 +1,15 @@
 [submodule "demanda_from_messy_excels_thefuzz"]
 	path = demanda_from_messy_excels_thefuzz
 	url = https://github.com/pcpp94/demanda_from_messy_excels_thefuzz.git
+[submodule "parsing_wrongly_formatted_excels"]
+	path = parsing_wrongly_formatted_excels
+	url = https://github.com/pcpp94/parsing_wrongly_formatted_excels.git
+[submodule "arcgis_api_data_parsing_double_authentication"]
+	path = arcgis_api_data_parsing_double_authentication
+	url = https://github.com/pcpp94/arcgis_api_data_parsing_double_authentication
+[submodule "web_scraping_jwt_complex_auth"]
+	path = web_scraping_jwt_complex_auth
+	url = https://github.com/pcpp94/web_scraping_jwt_complex_auth.git
+[submodule "webscraping_asp.net_form"]
+	path = webscraping_asp.net_form
+	url = https://github.com/pcpp94/webscraping_asp.net_form.git
