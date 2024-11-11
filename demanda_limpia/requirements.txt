@@ -1,0 +1,14 @@
+packaging
+pandas
+pyarrow
+six
+numexpr
+certifi
+pytz
+pyproj
+rtree
+bottleneck
+shapely
+geopandas
+numpy
+cloudpickle

@@ -1,0 +1,10 @@
+pandas
+zstandard
+meteostat
+bottleneck
+numexpr
+cloudpickle
+pyarrow
+numpy
+six
+pytz

@@ -1,0 +1,10 @@
+rapidfuzz
+numpy
+numexpr
+bottleneck
+six
+cloudpickle
+pyarrow
+thefuzz
+pandas
+pytz
