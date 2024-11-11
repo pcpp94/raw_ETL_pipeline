@@ -1,0 +1,3 @@
+[submodule "demanda_from_messy_excels_thefuzz"]
+	path = demanda_from_messy_excels_thefuzz
+	url = https://github.com/pcpp94/demanda_from_messy_excels_thefuzz.git
